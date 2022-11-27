@@ -18,14 +18,14 @@ Themes for Telegram.
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: center">
-      <td>Dark Storm</td>
-      <td>Noffffffffffff</td>
-      <td>No</td>
-      <td>Yes</td>
-      <td>No</td>
-      <td><a href="./dark_storm/">See more</a></td>
-      <td>https://t.me/addtheme/dark_storm</td>
+    <tr>
+      <td style="text-align: center">Dark Storm</td>
+      <td style="text-align: center">No</td>
+      <td style="text-align: center">No</td>
+      <td style="text-align: center">Yes</td>
+      <td style="text-align: center">No</td>
+      <td style="text-align: center"><a href="./dark_storm/">See more</a></td>
+      <td style="text-align: center">https://t.me/addtheme/dark_storm</td>
     </tr>
   </tbody>
   <tfoot>
