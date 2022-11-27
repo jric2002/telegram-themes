@@ -1,4 +1,7 @@
 # Telegram - Themes
+[![Telegram Themes](https://img.shields.io/badge/Telegram%20Themes-brightgreen)](https://github.com/jric2002/telegram-themes)
+[![License GNU General Public License v3.0](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-blue)](https://github.com/jric2002/telegram-themes/blob/master/LICENSE)
+
 Themes for Telegram.
 
 ## Tabla de Temas
@@ -31,3 +34,9 @@ Themes for Telegram.
   <tfoot>
   </tfoot>
 </table>
+
+## Soporte
+Si tienes alguna sugerencia o si ocurre algún problema, puedes dejar tu comentario en la sección de [Issues](https://github.com/jric2002/telegram-themes/issues).
+
+## Licencia
+Puedes ver el archivo de [Licencia](https://github.com/jric2002/telegram-themes/blob/master/LICENSE) para más detalles.
