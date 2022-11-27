@@ -24,14 +24,10 @@ Themes for Telegram.
       <td>No</td>
       <td>Yes</td>
       <td>No</td>
-      <td></td>
-      <td>No</td>
+      <td><a href="./dark_storm/">See more</a></td>
+      <td>https://t.me/addtheme/dark_storm</td>
     </tr>
   </tbody>
   <tfoot>
   </tfoot>
 </table>
-
-* [Dark Storm](https://t.me/addtheme/dark_storm)
-TDesktop
-![Dark Storm](./dark_storm/tdesktop/dark-storm-tdesktop.png)
