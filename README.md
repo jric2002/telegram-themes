@@ -2,13 +2,13 @@
 Themes for Telegram.
 
 ## Lista de Temas
-<table style="text-align: center">
+<table>
   <thead>
     <tr>
-      <th rowspan="2" colspan="1">Name</th>
-      <th rowspan="1" colspan="4">Available</th>
-      <th rowspan="1" colspan="1">Screenshots</th>
-      <th rowspan="1" colspan="1">Link</th>
+      <th style="text-align: center" rowspan="2" colspan="1">Name</th>
+      <th style="text-align: center" rowspan="1" colspan="4">Available</th>
+      <th style="text-align: center" rowspan="1" colspan="1">Screenshots</th>
+      <th style="text-align: center" rowspan="1" colspan="1">Link</th>
     </tr>
     <tr>
       <th style="text-align: center">iOS</th>
@@ -18,9 +18,9 @@ Themes for Telegram.
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="text-align: center">
       <td>Dark Storm</td>
-      <td>No</td>
+      <td>Noffffffffffff</td>
       <td>No</td>
       <td>Yes</td>
       <td>No</td>
