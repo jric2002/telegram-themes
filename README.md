@@ -1,7 +1,7 @@
 # Telegram - Themes
 Themes for Telegram.
 
-## Lista de Temas
+## Tabla de Temas
 <table>
   <thead>
     <tr>
