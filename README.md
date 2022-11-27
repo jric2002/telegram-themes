@@ -2,7 +2,7 @@
 Themes for Telegram.
 
 ## Lista de Temas
-<table>
+<table style="text-align: center">
   <thead>
     <tr>
       <th style="text-align: center" rowspan="2" colspan="1">Name</th>
@@ -17,7 +17,7 @@ Themes for Telegram.
       <th style="text-align: center">MacOS</th>
     </tr>
   </thead>
-  <tbody style="text-align: center">
+  <tbody>
     <tr>
       <td>Dark Storm</td>
       <td>No</td>
