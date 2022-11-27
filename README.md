@@ -5,10 +5,10 @@ Themes for Telegram.
 <table style="text-align: center">
   <thead>
     <tr>
-      <th style="text-align: center" rowspan="2" colspan="1">Name</th>
-      <th style="text-align: center" rowspan="1" colspan="4">Available</th>
-      <th style="text-align: center" rowspan="1" colspan="1">Screenshots</th>
-      <th style="text-align: center" rowspan="1" colspan="1">Link</th>
+      <th rowspan="2" colspan="1">Name</th>
+      <th rowspan="1" colspan="4">Available</th>
+      <th rowspan="1" colspan="1">Screenshots</th>
+      <th rowspan="1" colspan="1">Link</th>
     </tr>
     <tr>
       <th style="text-align: center">iOS</th>
