@@ -1,1 +1,2 @@
-# telegram-themes
+# Telegram - Themes
+Themes for Telegram.
