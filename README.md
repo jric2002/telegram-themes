@@ -21,7 +21,7 @@ Themes for Telegram.
     <tr>
       <td>Dark Storm</td>
       <td>No</td>
-      <td>No</td>
+      <td>Yes</td>
       <td>Yes</td>
       <td>No</td>
       <td><a href="./dark_storm/">See more</a></td>
