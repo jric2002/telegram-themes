@@ -30,6 +30,60 @@ Themes for Telegram.
       <td><a href="./dark_storm/">See more</a></td>
       <td>https://t.me/addtheme/dark_storm</td>
     </tr>
+    <tr>
+      <td>Aurora Polar</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./aurora_polar/">See more</a></td>
+      <td>https://t.me/addtheme/aurora_polar</td>
+    </tr>
+    <tr>
+      <td>Cloudy sky at night</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./cloudy_sky_at_night/">See more</a></td>
+      <td>https://t.me/addtheme/cloudy_sky_at_night</td>
+    </tr>
+    <tr>
+      <td>Nostalgicth</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./nostalgicth/">See more</a></td>
+      <td>https://t.me/addtheme/nostalgicth</td>
+    </tr>
+    <tr>
+      <td>Sunsetth</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./sunsetth/">See more</a></td>
+      <td>https://t.me/addtheme/sunsetth</td>
+    </tr>
+    <tr>
+      <td>Frozenth</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./frozenth/">See more</a></td>
+      <td>https://t.me/addtheme/frozenth</td>
+    </tr>
+    <tr>
+      <td>Cloudy Day</td>
+      <td>No</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td><a href="./cloudy_day/">See more</a></td>
+      <td>https://t.me/addtheme/cloudy_day</td>
+    </tr>
   </tbody>
   <tfoot>
   </tfoot>
